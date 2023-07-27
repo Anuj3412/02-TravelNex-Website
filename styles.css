@@ -1,0 +1,25 @@
+/* body{
+    background-color:beige;
+} */
+/* .navhead{
+    color:black;
+    font-weight: bold;
+} */
+/* li:hover{
+    color: blue;
+    cursor: pointer;
+} */
+
+
+
+.const{
+    background-color: black;
+    margin: 0px 0px 0px 0px ;
+    border: 5px solid purple;
+    padding: 10px;
+    color: blueviolet;
+}
+p{
+    color: darkturquoise;
+}
+
